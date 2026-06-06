@@ -1,6 +1,6 @@
 ### Hi, I'm Yujun
 
-Data scientist and economist based in San Mateo. I build tools that help people think more clearly and make better decisions. One of my recent project is **voice-first interfaces for capture, reflection, and time tracking**. Before this, I spent several years applying machine learning to food-security forecasting in development settings, with work published in *Applied Economic Perspectives and Policy* and *World Development*.
+Data scientist and economist based in San Francisco Bay Area. I build tools that help people think more clearly and make better decisions. One of my recent project is **voice-first interfaces for capture, reflection, and time tracking**. Before this, I spent several years applying machine learning to food-security forecasting in development settings, with work published in *Applied Economic Perspectives and Policy* and *World Development*.
 
 ---
 
