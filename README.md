@@ -6,6 +6,8 @@ Data scientist and economist based in San Francisco Bay Area. I build tools that
 
 #### What I'm building now
 
+- **[Narrative Edge](https://stock.yujun.net/)** — turns changes in analyst narratives into stock recommendations and tracks retrospective performance against QQQ.
+- **[El Niño and Commodity Futures](https://elnino.yujun.net/)** — a climate-and-commodities research workbench combining pre-registered event studies, release-aware data pipelines, and weekly monitoring.
 - **[brief-voice-memo](https://github.com/zhou100/brief-voice-memo)** — voice-first time tracker. Whisper transcribes recordings; GPT-4o-mini auto-categorizes them (TODO / IDEA / QUESTION / REMINDER) and runs AI-powered daily and weekly coaching audits.
 - **[dialect_voice_memo_wechatApp](https://github.com/zhou100/dialect_voice_memo_wechatApp)** — the same idea, packaged as a WeChat mini-program for voice-driven capture and content organization.
 -  **[church-map](https://github.com/zhou100/church_map)** - a location based church discovery app for searching churches by city/state, viewing them on a map, and reading or leaving reviews  
